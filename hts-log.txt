@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 09 Aug 2026 13:31:45 at https://www.coinomi.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.coinomi.com/ -O1 "C:\My Web Sites\coinomi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:31:56	Error: 	"Not Found" (404) at link https://www.coinomi.com/apple-touch-icon.png (from https://www.coinomi.com/)
+13:31:59	Error: 	"Forbidden" (403) at link https://kit.fontawesome.com/d190efec3e.js (from https://www.coinomi.com/)
+13:33:08	Error: 	"Not Found" (404) at link https://www.coinomi.com/cdn-cgi/l/email-protection (from https://www.coinomi.com/en/careers/)
+13:33:08	Error: 	"Not Found" (404) at link https://www.coinomi.com/en/privacy/dpo@coinomi.com (from https://www.coinomi.com/en/privacy/)
+13:33:08	Error: 	"Not Found" (404) at link https://www.coinomi.com/zh/privacy/dpo@coinomi.com (from https://www.coinomi.com/zh/privacy/)
+13:33:08	Error: 	"Not Found" (404) at link https://www.coinomi.com/es/privacy/dpo@coinomi.com (from https://www.coinomi.com/es/privacy/)
+13:33:08	Error: 	"Not Found" (404) at link https://www.coinomi.com/ar/privacy/dpo@coinomi.com (from https://www.coinomi.com/ar/privacy/)
+13:33:08	Error: 	"Not Found" (404) at link https://www.coinomi.com/fr/privacy/dpo@coinomi.com (from https://www.coinomi.com/fr/privacy/)
+13:33:08	Error: 	"Not Found" (404) at link https://www.coinomi.com/ru/privacy/dpo@coinomi.com (from https://www.coinomi.com/ru/privacy/)
+13:33:08	Error: 	"Not Found" (404) at link https://www.coinomi.com/de/privacy/dpo@coinomi.com (from https://www.coinomi.com/de/privacy/)
+13:33:08	Error: 	"Not Found" (404) at link https://www.coinomi.com/ja/privacy/dpo@coinomi.com (from https://www.coinomi.com/ja/privacy/)
+13:33:08	Error: 	"Not Found" (404) at link https://www.coinomi.com/tr/privacy/dpo@coinomi.com (from https://www.coinomi.com/tr/privacy/)
+13:33:08	Error: 	"Not Found" (404) at link https://www.coinomi.com/uk/privacy/dpo@coinomi.com (from https://www.coinomi.com/uk/privacy/)
+13:33:08	Error: 	"Not Found" (404) at link https://www.coinomi.com/pl/privacy/dpo@coinomi.com (from https://www.coinomi.com/pl/privacy/)
+13:33:08	Error: 	"Not Found" (404) at link https://www.coinomi.com/el/privacy/dpo@coinomi.com (from https://www.coinomi.com/el/privacy/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 23 seconds : 198 links scanned, 182 files written (10460710 bytes overall) [6288795 bytes received at 75768 bytes/sec], 6643031 bytes transferred using HTTP compression in 186 files, ratio 28%, 22.3 requests per connection
+(15 errors, 0 warnings, 0 messages)
